@@ -1,0 +1,3 @@
+reason:
+  no-version-api: "THERE_IS_NOT_MATCHED_API_VERSION"
+  no-parameter: "PARAMETER_NAME_IS_NOT_FOUNDED"
